@@ -9,4 +9,5 @@ For example, companies who run pet food business might want to know where (compe
 
 Due to data source confidentiality, I am not be able to share all raw data files in on a public platform.  
 
+
 Special thanks to https://github.com/chengstone/movie_recommender , which helps me to think and design more logically.
